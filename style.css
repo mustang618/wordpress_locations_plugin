@@ -1,0 +1,12 @@
+#location_title
+{
+  font-size: 16pt;
+  color: #4f565b;
+}
+
+.location_map_canvas
+{
+  /*height: 50vh;*/
+  height: 300px;
+  width: 100%;
+}
